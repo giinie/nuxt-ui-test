@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-ui-pro-template-saas",
+  "name": "nuxt-ui-test",
   "private": true,
   "type": "module",
   "scripts": {
@@ -30,9 +30,9 @@
     "vue-tsc": "^1.8.27"
   },
   "resolutions": {
-    "vue": "3.3.13"
+    "vue": "3.4.15"
   },
   "overrides": {
-    "vue": "3.3.13"
+    "vue": "3.4.15"
   }
 }
